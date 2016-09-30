@@ -32,7 +32,7 @@
     "joi": "^6.6.1",
     "jsonfile": "^2.4.0",
     "lodash": "^3.10.1",
-    "slug-component": "^1.1.0"
+    "slug": "^0.9.1"
   },
   "devDependencies": {
     "assert-dir-equal": "^1.0.1",
